@@ -1,7 +1,7 @@
 import csv
 
 # Specify the file path
-file_path = r'C:\Users\lenar\OneDrive\Documents\Data Bootcamp\python_challenge\Starter_Code\PyBank\Resources\budget_data.csv'
+file_path = r'C:\Users\lenar\OneDrive\Documents\Data Bootcamp\python_challenge\PyBank\Resources\budget_data.csv'
 
 # Open the CSV file and read it
 with open(file_path, 'r') as csvfile:
